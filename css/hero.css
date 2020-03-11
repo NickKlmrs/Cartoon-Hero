@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	background-color: #9a52a3;
+	color: white;
+}
+
+header{
+	background-color: #9a52a3;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Creepster', cursives;
+	letter-spacing: 2px;
+}
+
+header h1{
+	color: lime; 
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: lime;
+}
+
+a{
+	color: lime;
+}
+
+footer{
+	background-color: #b179b8;
+	text-align: center;
+}
+
+footer p{
+	padding: 25px;
+	margin: 0;
+}
+
+p.caption{
+	font-style: italic;
+	margin-top: 0;
+}
